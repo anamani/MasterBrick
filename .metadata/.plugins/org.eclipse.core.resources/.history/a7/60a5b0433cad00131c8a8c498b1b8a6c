@@ -1,0 +1,16 @@
+
+public class Engine {
+
+	public Engine(){
+		
+		new Window();
+	}
+	
+	public void loop(){
+		
+		while(true){
+			
+			
+		}
+	}
+}

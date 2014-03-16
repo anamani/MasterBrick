@@ -1,0 +1,5 @@
+
+public class A {
+	
+	static int variable = 0;
+}
